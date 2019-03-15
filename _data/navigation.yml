@@ -1,0 +1,97 @@
+
+# main links
+main:
+  - title: "Getting Started"
+    url: /docs/getting_started/
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /year-archive/
+
+# documentation links
+docs:
+  - title: "Getting Started"
+    children:
+      - title: "[+] Information Security"
+        url: /docs/01_infosec-101/
+      - title: "[+] Linux"
+        url: /docs/02_linux-101/
+      - title: "[+] Networking"
+        url: /docs/03_networking-101/
+      - title: "[+] Python Programming"
+        url: /docs/04_python-101/
+      - title: "[+] Git/Git HUb"
+        url: /docs/05_git-101/
+      - title: "[+] Machine Learning"
+        url: /docs/06_ml-101/
+      - title: "[+] Metasploit"
+        url: /docs/07_metasploit_101/
+      - title: "[+] Blockchain"
+        url: /docs/08_blockchain_101/
+      - title: "[+] Cryptography"
+        url: /docs/09_Cryptography_101/
+      - title: "[+] Malware"
+        url: /docs/10_Malware_101/
+      - title: "[+] R Programming"
+        url: /docs/11_R_Programming_101/
+      - title: "[+] Web Technologies"
+        url: /docs/12_Web_Technologies_101/
+      - title: "[+] Powershell"
+        url: /docs/13_Powershell_101/
+      - title: "[+] X86"
+        url: /docs/14_x86/
+
+  - title: "Penetration Testing"
+    children:
+      - title: "[+] Lab Environment"
+        url: /pentest/00_lab/
+      - title: "[+] Pre Engagement"
+        url: /pentest/01_pre-engagement/
+      - title: "[+] Information Gathering"
+        url: /pentest/02_info-gathering/
+      - title: "[+] Vulnerability Scanning"
+        url: /pentest/03_vul-scan/
+      - title: "[+] Threat Modeling"
+        url: /pentest/04_threat-modeling/
+      - title: "[+] Exploitation"
+        url: /pentest/05_exploitation/
+      - title: "[+] Web Application Pentest"
+        url: /pentest/06_web-pentest/
+      - title: "[+] IoT Pentest"
+        url: /pentest/07_iot-pentest/
+      - title: "[+] Wireless Pentest"
+        url: /pentest/08_wireless-pentest/
+      - title: "[+] Social Engineering"
+        url: /pentest/09_social-engineering/
+      - title: "[+] Password Cracking"
+        url: /pentest/11_Password_Cracking/
+      - title: "[+] Post Exploitation"
+        url: /pentest/80_Post_Exploitation/
+      - title: "[+] Reporting"
+        url: /pentest/90_Reporting/
+
+  - title: "Machine Learning and Security"
+    children:
+      - title: "[+] MLSec Projects"
+        url: /mlsec/ML-Sec/
+
+  - title: "Dev Ops"
+    children:
+      - title: "[+] AWS "
+        url: /devops/aws/
+      - title: "[+] ELK"
+        url: /devops/ELK_stack/
+      - title: "[+] Jenkins"
+        url: /devops/jenkins/
+      - title: "[+] SAST"
+        url: /devops/SAST/
+
+
+  - title: "Certifications"
+    children:
+      - title: "[+] Cyber Security"
+        url: /certifications/CyberSecurity
+      - title: "[+] Networking"
+        url: /certifications/Networking
+      - title: "[+] AWS Security"
+        url: /certifications/AWS-security
