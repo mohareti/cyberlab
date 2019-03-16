@@ -6,7 +6,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /Blogs/
+    url: /year-archive/
 
 # documentation links
 docs:
