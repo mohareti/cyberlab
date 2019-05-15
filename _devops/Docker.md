@@ -8,14 +8,13 @@ published: true
 
 
 ### Docker Installtion
-
- - Installation Steps
- 		- sudo apt update 
-    	- sudo apt upgrade
-    	- sudo apt install docker.io -y 
-        - systemctl start docker
-        - systemctl enable docker
-        - docker version
+- Installation Steps
+	- sudo apt update 
+    - sudo apt upgrade
+    - sudo apt install docker.io -y 
+    - systemctl start docker
+    - systemctl enable docker
+    - docker version
 
 #### Additional Tools
 
