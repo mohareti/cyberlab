@@ -28,10 +28,9 @@ published: true
 		- sudo or root permissions
     	- Docker
 	 - Installation commands
- 		- docker pull portainer/portainer
-        - docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer
-        - docker ps
-        - go to http://localhost:9000 and create admin password
-        - choose environment to connect 
-        - if you have docker configuration in local machine, select 'Local' environment 
-  
+     		- docker pull portainer/portainer
+        	- docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer
+        	- docker ps
+        	- go to http://localhost:9000 and create admin password
+        	- choose environment to connect 
+        	- if you have docker configuration in local machine, select 'Local' environment
