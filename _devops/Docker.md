@@ -34,11 +34,4 @@ published: true
         - go to http://localhost:9000 and create admin password
         - choose environment to connect 
         - if you have docker configuration in local machine, select 'Local' environment 
-    ![1.PNG]({{site.baseurl}}/_devops/1.PNG)
-
-
-
-
-
-    
 
