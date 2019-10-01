@@ -4,7 +4,12 @@ permalink: /docs/15_SoC/
 toc: true
 ---
 
-### Phishing Detection 
+#### Phishing E-Mail Detection and Malware files analysis
+- E-mail headers have vital information, https://mxtoolbox.com/EmailHeaders.aspx helps to fetch information
+- For Malware analysis 
+  - ANY RUN[https://any.run/]
+  - Hybrid Analysis[https://www.hybrid-analysis.com/]
+  - Virus Total [https://www.virustotal.com/gui/home/upload]
 - https://www.urlvoid.com/
 - https://www.phishtank.com/
 - https://support.opendns.com/hc/en-us/articles/227986707-Understanding-Malware-and-how-OpenDNS-helps
