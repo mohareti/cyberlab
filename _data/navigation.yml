@@ -40,6 +40,8 @@ docs:
         url: /docs/13_Powershell_101/
       - title: "[+] X86"
         url: /docs/14_x86/
+      - title: "[+] SoC"
+        url: /docs/14_SoC/
 
   - title: "Penetration Testing"
     children:
