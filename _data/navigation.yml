@@ -31,7 +31,7 @@ docs:
       - title: "[+] Cryptography"
         url: /docs/09_Cryptography_101/
       - title: "[+] Malware"
-        url: /docs/10_Malware_101/
+        url: /docs/10_Malware_Analysis/
       - title: "[+] R Programming"
         url: /docs/11_R_Programming_101/
       - title: "[+] Web Technologies"
