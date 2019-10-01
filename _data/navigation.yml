@@ -20,7 +20,7 @@ docs:
         url: /docs/03_networking-101/
       - title: "[+] Python Programming"
         url: /docs/04_python-101/
-      - title: "[+] Git/Git HUb"
+      - title: "[+] GitHub"
         url: /docs/05_git-101/
       - title: "[+] Machine Learning"
         url: /docs/06_ml-101/
