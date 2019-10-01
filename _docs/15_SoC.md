@@ -1,6 +1,6 @@
 ---
 title: "SoC"
-permalink: /docs/SoC/
+permalink: /docs/15_SoC/
 toc: true
 ---
 
