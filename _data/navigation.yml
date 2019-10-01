@@ -30,7 +30,7 @@ docs:
         url: /docs/08_blockchain_101/
       - title: "[+] Cryptography"
         url: /docs/09_Cryptography_101/
-      - title: "[+] Malware"
+      - title: "[+] Malware Analysis"
         url: /docs/10_Malware_Analysis/
       - title: "[+] R Programming"
         url: /docs/11_R_Programming_101/
