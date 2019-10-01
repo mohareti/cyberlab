@@ -1,4 +1,3 @@
-
 ---
 title: "SoC"
 permalink: /docs/SoC/
