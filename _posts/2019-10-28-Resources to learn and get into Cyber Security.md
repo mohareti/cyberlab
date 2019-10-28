@@ -1,3 +1,23 @@
+---
+title: "Resources to learn and get into Cyber Security"
+categories:
+  - Edge Case
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
+
+values:
+  layout: single
+  author_profile: true
+  read_time: true
+  comments: true
+  share: true
+  related: true
+---
+
 #### Certifications : 
 -	[Comptia cyber security analyst](https://www.comptia.org/certifications/cybersecurity-analyst)
 -	[Comptia pentest +](https://www.comptia.org/certifications/pentest)
