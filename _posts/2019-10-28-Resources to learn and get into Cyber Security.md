@@ -58,6 +58,7 @@ values:
 -	https://research.checkpoint.com
 -	https://www.fireeye.com/blog.html
 -	https://www.malwaretech.com/
+- juniper.net/us/en/threat-labs/
  
 ##### Books :
 -	Penetration Testing: A Hands-on Introduction to Hacking
