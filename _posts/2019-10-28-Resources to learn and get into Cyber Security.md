@@ -17,7 +17,7 @@ values:
   share: true
   related: true
 ---
-<p align="center"><img src="https://github.com/mohareti/cyberlab/blob/master/assets/images/Naruto.png" width="500" height="300"></p>
+<p align="center"><img src="https://github.com/mohareti/cyberlab/blob/master/assets/images/Naruto.png" width="500" height="500"></p>
 #### Certifications : 
 -	[Comptia cyber security analyst](https://www.comptia.org/certifications/cybersecurity-analyst)
 -	[Comptia pentest +](https://www.comptia.org/certifications/pentest)
