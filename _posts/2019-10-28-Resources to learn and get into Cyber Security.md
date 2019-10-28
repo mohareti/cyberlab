@@ -1,7 +1,7 @@
 #### Certifications : 
 -	[Comptia cyber security analyst](https://www.comptia.org/certifications/cybersecurity-analyst)
--	[Comptia pentest +] (https://www.comptia.org/certifications/pentest)
--	[OSCP] [https://www.offensive-security.com]
+-	[Comptia pentest +](https://www.comptia.org/certifications/pentest)
+-	[OSCP](https://www.offensive-security.com)
  
 #### Practicing / Training : 
 -	https://www.hackthebox.eu/      
