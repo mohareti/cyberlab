@@ -75,3 +75,4 @@ values:
 ##### Additional Resources:
 -	http://www.pentest-standard.org/index.php/Main_Page
 -	https://www.pcisecuritystandards.org/document_library
+- [NIST800 -53](https://nvd.nist.gov/800-53)
