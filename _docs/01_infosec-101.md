@@ -64,7 +64,7 @@ toc: true
 - [NIST800 -53](https://nvd.nist.gov/800-53)
 
 
-#### Git Hub Resources:
+#### Git Hub Resources
 - Awesome Git Hub
   - [Incident Response](https://github.com/meirwah/awesome-incident-response)
   - [Threat Hunting](https://github.com/0x4D31/awesome-threat-detection)
