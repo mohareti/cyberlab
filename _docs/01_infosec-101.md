@@ -3,12 +3,12 @@ title: "Infosec"
 permalink: /docs/01_infosec-101/
 toc: true
 ---
-#### Certifications : 
+#### Certifications 
 -	[Comptia cyber security analyst](https://www.comptia.org/certifications/cybersecurity-analyst)
 -	[Comptia pentest +](https://www.comptia.org/certifications/pentest)
 -	[OSCP](https://www.offensive-security.com)
  
-#### Practicing / Training : 
+#### Practicing / Training 
 -	https://www.hackthebox.eu/      
 -	https://www.pentesteracademy.com/    
 -	https://attackdefense.com      		                        
@@ -18,20 +18,20 @@ toc: true
 -	https://ctftime.org                         
 -	https://www.nationalcyberleague.org/  
  
-#### YouTube Channels:
+#### YouTube Channels
 -	Cybrary : https://www.cybrary.it/course/advanced-penetration-testing/
 -	IppSec   : https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 -	Live Overflow : https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 -	https://www.youtube.com/watch?v=p4twsh9e4-A&feature=youtu.be
  
-#### Daily News/Feeds :
+#### Daily News/Feeds 
 -	https://threatpost.com/
 -	https://thehackernews.com/
 -	https://krebsonsecurity.com/
 -	https://www.sans.org/newsletters/newsbites
 -	https://www.reddit.com/r/AskNetsec/
  
-#### Resources:
+#### Resources
 
 ##### Web
 -	https://www.owasp.org/index.php/Main_Page
@@ -39,14 +39,14 @@ toc: true
 -	https://www.bugcrowd.com/resources/levelup/
 -	https://support.portswigger.net/customer/portal/topics/792273-burp-testing-methodologies/articles
  
-##### Malwares/Botnet Research : 
+##### Malwares/Botnet Research 
 -	[checkpoint](https://research.checkpoint.com)
 -	[Fireeye](https://www.fireeye.com/blog.html)
 -	[MalwareTech](https://www.malwaretech.com/)
 - [Juniper](juniper.net/us/en/threat-labs/)
 - [cylance](https://threatvector.cylance.com/en_us/home.html?utm_medium=referral&utm_source=cylance.com)
  
-##### Books :
+##### Books 
 -	Penetration Testing: A Hands-on Introduction to Hacking
 -	The Hacker Playbook 1,2,3
 -	RTFM: Red Team Field Manual
@@ -58,7 +58,7 @@ toc: true
 -	http://shop.oreilly.com
 -	https://www.packtpub.com/ 
  
-##### Additional Resources:
+##### Additional Resources
 -	http://www.pentest-standard.org/index.php/Main_Page
 -	https://www.pcisecuritystandards.org/document_library
 - [NIST800 -53](https://nvd.nist.gov/800-53)
