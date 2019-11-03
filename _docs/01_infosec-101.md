@@ -81,4 +81,13 @@ toc: true
   - [Sans] (https://www.sans.org/newsletters/newsbites)
   - [Reddit AskNetSec] (https://www.reddit.com/r/AskNetsec/)
   - [Reddit OSCP] (https://www.reddit.com/r/oscp/)
+  
+  #### Exploit Information
+  - http://www.securityfocus.com/
+  - https://www.exploit-db.com/
+  - http://www.rebootuser.com/
+
+  
+  #### University Courses
+  - http://www.cs.fsu.edu/~redwood/OffensiveSecurity/lectures.html
 
