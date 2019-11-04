@@ -53,6 +53,53 @@ toc: true
 -	BTFM: Blue Team Field Manual
 -	The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws (2nd Edition)
 -	Network Security Assessment, 3rd Edition By Chris McNab
+
+##### Few More Books
+- Grey Hat Python
+- The Root Kit Arsenal
+- A Guide to Kernel Exploitation, Attacking With HTML 5
+- Managed Code Rootkits
+- Rootkits - Subverting the Windows Kernel
+- The Shellcoders Handbook
+- Hacking Exposed Malware and Rootkits
+- CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide
+- Intermediate Security Testing with Kali Linux 2 A book by Daniel W Dieterle
+- Hash Crack: Password Cracking Manual A book by Joshua Picolet
+- The Practice of Network Security Monitoring: Understanding Incident Detection and Response 
+- The Book of PoC||GTFO by Manul Laphroaig 
+- Practical Forensic Imaging: Securing Digital Evidence with Linux Tools by Bruce Nikkel  
+- Metasploit: The Penetration Tester's Guide by David Kennedy  
+- The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory by Michael Hale Ligh
+- Cryptography Engineering: Design Principles and Practical Applications  by Niels Ferguson 
+- The Shellcoder's Handbook: Discovering and Exploiting Security Holes  by Jack Koziol 
+- Applied Cryptography: Protocols, Algorithms, and Source Code in C by Bruce Schneier 
+- Kali Linux 2: Windows Penetration Testing by Wolf Halton 
+- Mastering Kali Linux for Advanced Penetration Testing  by Robert W Beggs  
+- Mastering Metasploit by Nipun Jaswal
+- Penetration Testing with the Bash shell  by Keith Makan 
+- The Hacker Playbook: Practical Guide To Penetration Testing by Peter Kim 
+- Penetration Testing: A Hands-On Introduction to Hacking  by Georgia Weidman 
+- Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (Paperback) by Bruce Dang 
+- Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers (Paperback) by T.J. O'Connor
+- Metasploit Penetration Testing Cookbook, Second Edition by Abhinav Singh 
+- Advanced Penetration Testing for Highly-Secured Environments: The Ultimate Security Guide (Paperback) by Lee Allen 
+- SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys by Michael W. Lucas 
+- Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software  by Michael Sikorski 
+- Reversing: Secrets of Reverse Engineering  by Eldad Eilam 
+- Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks  by Michal Zalewski 
+- Mastering Modern Web Penetration Testing (Kindle Edition) by Prakhar Prasad 
+- Building Virtual Pentesting Labs for Advanced Penetration Testing - Second Edition  by Kevin Cardwell 
+- Advanced Penetration Testing for Highly-Secured Environments, Second Edition  by Kevin Cardwell
+- Learning Linux Shell Scripting  by Ganesh Sanjiv Naik 
+- Mastering Linux Shell Scripting  by Andrew Mallett  
+- Wireshark Essentials by James H. Baxter 
+- Hacking Exposed Wireless: Wireless Security Secrets & Solutions  by Joshua Wright 
+- The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy by Patrick Engebretson 
+- Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code  by Michael Hale Ligh 
+- Assembly Language: Step-By-Step by Jeff Duntemann 
+- Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems by Chris Sanders 
+- The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles Kozierok 
+- TCP/IP Illustrated
  
 ##### Online books/videos 
 -	http://shop.oreilly.com
