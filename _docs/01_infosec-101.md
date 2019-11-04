@@ -40,6 +40,7 @@ toc: true
 -	https://support.portswigger.net/customer/portal/topics/792273-burp-testing-methodologies/articles
  
 ##### Malwares/Botnet Research 
+
 -	[checkpoint](https://research.checkpoint.com)
 -	[Fireeye](https://www.fireeye.com/blog.html)
 -	[MalwareTech](https://www.malwaretech.com/)
@@ -47,6 +48,7 @@ toc: true
 - [cylance](https://threatvector.cylance.com/en_us/home.html?utm_medium=referral&utm_source=cylance.com)
  
 ##### Books 
+
 -	Penetration Testing: A Hands-on Introduction to Hacking
 -	The Hacker Playbook 1,2,3
 -	RTFM: Red Team Field Manual
@@ -55,6 +57,7 @@ toc: true
 -	Network Security Assessment, 3rd Edition By Chris McNab
 
 ##### Few More Books
+
 - Grey Hat Python
 - The Root Kit Arsenal
 - A Guide to Kernel Exploitation, Attacking With HTML 5
@@ -66,7 +69,7 @@ toc: true
 - Intermediate Security Testing with Kali Linux 2 A book by Daniel W Dieterle
 - Hash Crack: Password Cracking Manual A book by Joshua Picolet
 - The Practice of Network Security Monitoring: Understanding Incident Detection and Response 
-- The Book of PoC||GTFO by Manul Laphroaig 
+- The Book of PoC GTFO by Manul Laphroaig 
 - Practical Forensic Imaging: Securing Digital Evidence with Linux Tools by Bruce Nikkel  
 - Metasploit: The Penetration Tester's Guide by David Kennedy  
 - The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory by Michael Hale Ligh
@@ -128,13 +131,11 @@ toc: true
   - [Sans] (https://www.sans.org/newsletters/newsbites)
   - [Reddit AskNetSec] (https://www.reddit.com/r/AskNetsec/)
   - [Reddit OSCP] (https://www.reddit.com/r/oscp/)
-  
-  #### Exploit Information
+#### Exploit Information
   - http://www.securityfocus.com/
   - https://www.exploit-db.com/
   - http://www.rebootuser.com/
 
-  
-  #### University Courses
+#### University Courses
   - http://www.cs.fsu.edu/~redwood/OffensiveSecurity/lectures.html
 
