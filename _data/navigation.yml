@@ -82,7 +82,7 @@ docs:
       - title: "[+] AWS "
         url: /devops/aws/
       - title: "[+] Ansible "
-        url: /devops/ansible/
+        url: /devops/Ansible/
       - title: "[+] ELK"
         url: /devops/ELK_stack/
       - title: "[+] Jenkins"
