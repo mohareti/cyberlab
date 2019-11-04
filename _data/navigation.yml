@@ -81,6 +81,8 @@ docs:
     children:
       - title: "[+] AWS "
         url: /devops/aws/
+      - title: "[+] Ansible "
+        url: /devops/ansible/
       - title: "[+] ELK"
         url: /devops/ELK_stack/
       - title: "[+] Jenkins"
