@@ -37,3 +37,9 @@ toc: true
   - https://logrhythm.com/blog/phishing-intelligence-engine-pie-open-source-release/
   - https://logrhythm.com/webcasts/phishing-detection-and-response-with-pie/
   - https://github.com/LogRhythm-Labs/PIE/
+  
+  
+  
+  
+#### Tools
+- [kansa Incident Response Tool](https://github.com/davehull/Kansa)
