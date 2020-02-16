@@ -42,6 +42,8 @@ docs:
         url: /docs/14_x86/
       - title: "[+] SoC"
         url: /docs/15_SoC/
+      - title: "[+] Forensics"
+        url: /docs/16_Forensics/
 
   - title: "Penetration Testing"
     children:
