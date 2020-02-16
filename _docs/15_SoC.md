@@ -43,3 +43,7 @@ toc: true
   
 #### Tools
 - [kansa Incident Response Tool](https://github.com/davehull/Kansa)
+
+#### Forensics
+##### USB
+- https://github.com/snovvcrash/usbrip
