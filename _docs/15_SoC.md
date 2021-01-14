@@ -3,11 +3,25 @@ title: "SoC"
 permalink: /docs/15_SoC/
 toc: true
 ---
+#### Types of Attackers
+- Hackers
+- Cyber Criminals
+  - organized cyber gangs
+- Hacktivists
+- Nation/state sponsored hackers
+- Hacking Groups
+  - card skimmers
+
+#### Attack scenarios
+- email Phishing
+- DDOS attacks
+- APT advanced persistent threat
+- Zero day's 
 
 #### Phishing E-Mail Detection and Malware files analysis
 - E-mail headers have vital information
-  - [MX Tool box](https://mxtoolbox.com/EmailHeaders.aspx) 
-- For Malware analysis 
+  - [MX Tool box](https://mxtoolbox.com/EmailHeaders.aspx)
+- For Malware analysis
   - [ANY RUN](https://any.run/)
   - [Hybrid Analysis](https://www.hybrid-analysis.com/)
   - [Virus Total](https://www.virustotal.com/gui/home/upload)
@@ -17,7 +31,7 @@ toc: true
 - https://support.opendns.com/hc/en-us/articles/227986707-Understanding-Malware-and-how-OpenDNS-helps
 - http://www.getlinkinfo.com/
 
-#### Live Cyber Attack Maps 
+#### Live Cyber Attack Maps
 - [ThreatButt](https://threatbutt.com/map/)
 - [Threat Cloud Checkpoint](https://threatmap.checkpoint.com/)
 - [sonic Wall](https://securitycenter.sonicwall.com/m/page/worldwide-attacks)
@@ -37,11 +51,9 @@ toc: true
   - https://logrhythm.com/blog/phishing-intelligence-engine-pie-open-source-release/
   - https://logrhythm.com/webcasts/phishing-detection-and-response-with-pie/
   - https://github.com/LogRhythm-Labs/PIE/
-  
-  
-  
-  
+
+
+
+
 #### Tools
 - [kansa Incident Response Tool](https://github.com/davehull/Kansa)
-
-
